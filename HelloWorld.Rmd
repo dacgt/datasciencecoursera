@@ -2,12 +2,12 @@
 title: "HelloWorld"
 author: "Danilo Ac"
 date: "6/9/2020"
-output: pdf_document
+output: md_document
 ---
 
 ## This is a markdown file
 
-# Course project   
+# Coursera project   
 Assemble your toolbox
 
 ## R Markdown 

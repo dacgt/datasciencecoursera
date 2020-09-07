@@ -1,8 +1,8 @@
 This is a markdown file
 -----------------------
 
-Course project
-==============
+Coursera project
+================
 
 Assemble your toolbox
 
